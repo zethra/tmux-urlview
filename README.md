@@ -1,5 +1,8 @@
 # Tmux urlview
 
+Fork of [tmux-urlview](https://github.com/tmux-plugins/tmux-urlview) that list
+urls in reverse order
+
 Quickly open any url on your terminal window!
 
 Plugin wrapper around either [urlview](https://github.com/sigpipe/urlview) or [extract_url](http://www.memoryhole.net/~kyle/extract_url/).
